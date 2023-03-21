@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://github.com/Jesug/product-preview-card-component-main]
 - Live Site URL: [https://jesug.github.io/product-preview-card-component-main/]
 
 
